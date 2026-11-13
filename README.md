@@ -1,5 +1,7 @@
 # SeedWorks
 
+**Website: [seedworkslab.github.io](https://seedworkslab.github.io)**
+
 **Small, private, local-first apps for the things you do every day.**
 
 SeedWorks is an independent app studio that builds focused tools for everyday life. We
@@ -194,5 +196,6 @@ Watch this organization, or follow the [Coconut](https://github.com/SeedWorksLab
 
 ## License
 
-The SeedWorks apps are released under the MIT license unless a repository states
-otherwise. See the `LICENSE` file in each repository for details.
+The SeedWorks apps are released under the GNU Affero General Public License v3.0
+unless a repository states otherwise. See the `LICENSE` file in each repository
+for details.
