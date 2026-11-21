@@ -1,6 +1,6 @@
 # SeedWorks
 
-**Website: [seedworkslab.github.io](https://seedworkslab.github.io)**
+**Website: [seedworkslab.de](https://seedworkslab.de)**
 
 **Small, private, local-first apps for the things you do every day.**
 
